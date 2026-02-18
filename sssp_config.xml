@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget>
 <ver>1.0</ver>
-<size>80</size>
+<size>886413</size>
 <widgetname>SquarcleTV</widgetname>
+<webtype>tizen</webtype>
 </widget>
